@@ -3,7 +3,8 @@
 
 #include "pwiz/data/msdata/MSData.hpp"
 #include "../../utils/mzUtils.hpp"
-#include "mzPeak.hpp"
+
+#include "peak.hpp"
 
 namespace mzdb {
 
